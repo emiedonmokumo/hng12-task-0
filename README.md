@@ -19,5 +19,4 @@ This is a simple public API built with Express.js and TypeScript for the HNG12 i
 }
 ```
 
-## Hiring Node.js Developers? Looking for skilled Node.js developers? Check out
 [HNG Node.js Developers](https://hng.tech/hire/nodejs-developers/) for top talent.
