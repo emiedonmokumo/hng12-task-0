@@ -3,7 +3,7 @@
 This is a simple public API built with Express.js and TypeScript for the HNG12 internship.
 
 ## 🚀 Live API URL
-[https://your-deployed-api-url.com](https://your-deployed-api-url.com)
+[https://hng12-task-0.vercel.app/](https://hng12-task-0.vercel.app)
 
 ## 📌 API Endpoint
 - `GET /` → Returns basic information
