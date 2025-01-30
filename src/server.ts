@@ -1,4 +1,7 @@
 import app from "./app";
+import cors from 'cors';
+
+app.use(cors()) // configure when FE is connected
 
 app.get('/', (req, res) => {
   res.status(200).json({
